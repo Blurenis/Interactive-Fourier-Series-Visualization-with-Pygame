@@ -22,4 +22,4 @@ This project provides an interactive graphical interface using Pygame to visuali
    git clone https://github.com/your_username/Interactive-Fourier-Series-Visualization-with-Pygame.git
    cd repository_name
 
-Special thanks to 3Blue1Brown for their insightful videos and explanations on Fourier series, which significantly influenced the development of this visualization tool. yYou can find the link of the specific video [here](https://www.youtube.com/watch?v=r6sGWTCMz2k&t=294s&ab_channel=3Blue1Brown)
+Special thanks to 3Blue1Brown for their insightful videos and explanations on Fourier series, which significantly influenced the development of this visualization tool. You can find the link of the specific video [here].(https://www.youtube.com/watch?v=r6sGWTCMz2k&t=294s&ab_channel=3Blue1Brown)
