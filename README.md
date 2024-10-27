@@ -13,11 +13,11 @@ This project provides an interactive graphical interface using Pygame to visuali
 
 ## Screenshots
 
-*(Add screenshots here to showcase different stages of the Fourier decomposition)*
+![ScreenRecording2024-10-27092053-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/233cd44e-31b6-4014-891c-dd30bc0b60ce)
 
 ## Installation
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/repository_name.git
+   git clone https://github.com/your_username/Interactive-Fourier-Series-Visualization-with-Pygame.git
    cd repository_name
